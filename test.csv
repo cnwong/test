@@ -1,0 +1,570 @@
+﻿concept_id,concept_name,Keep ,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+19126602,risperidone 25 MG Injection [Risperdal],,Drug,RxNorm,Branded Drug,S,706831,7/1/07,12/31/99,NA
+46275313,brexpiprazole 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658331,9/8/15,12/31/99,NA
+792301,loxapine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,329943,1/1/70,12/31/99,NA
+19030682,haloperidol 2 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,205908,1/1/70,12/31/99,NA
+703083,mesoridazine,,Drug,RxNorm,Ingredient,S,6779,1/1/70,12/31/99,NA
+19048305,iloperidone 12 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848732,5/31/09,12/31/99,NA
+46275307,brexpiprazole 0.25 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658325,9/8/15,12/31/99,NA
+40163942,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,858073,9/6/09,12/31/99,NA
+46275311,brexpiprazole 0.5 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658329,9/8/15,12/31/99,NA
+40163875,1 ML fluphenazine decanoate 25 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,859831,9/6/09,12/31/99,NA
+46234541,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet) } Pack,,Drug,RxNorm,Clinical Pack,S,1648646,7/6/15,12/31/99,NA
+19132010,risperidone 0.5 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,806297,9/28/08,12/31/99,NA
+19120812,ziprasidone 20 MG [Geodon],,Drug,RxNorm,Branded Drug Comp,S,575092,9/11/05,12/31/99,NA
+752206,prochlorperazine 15 MG Extended Release Oral Capsule,,Drug,RxNorm,Clinical Drug,S,312637,1/1/70,12/31/99,NA
+35603280,cariprazine 1.5 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1667660,5/2/16,12/31/99,NA
+19071493,quetiapine 300 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,284509,1/1/70,12/31/99,NA
+35603089,1 ML haloperidol decanoate 100 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,1719803,5/2/16,12/31/99,NA
+40163973,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,858048,9/6/09,12/31/99,NA
+703248,24 HR paliperidone 6 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,672569,1/14/07,12/31/99,NA
+35603101,1 ML haloperidol decanoate 50 MG/ML Injection [Haldol],,Drug,RxNorm,Quant Branded Drug,S,1720026,5/2/16,12/31/99,NA
+766851,quetiapine 400 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,616485,4/2/06,12/31/99,NA
+19031152,haloperidol 2 MG/ML Oral Solution [Haldol],,Drug,RxNorm,Branded Drug,S,206061,1/1/70,12/31/99,NA
+35603239,haloperidol 5 MG/ML Injection,,Drug,RxNorm,Clinical Drug,S,1719647,5/2/16,12/31/99,NA
+35605391,2 ML chlorpromazine hydrochloride 25 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,1730078,5/2/16,12/31/99,NA
+785788,olanzapine,,Drug,RxNorm,Ingredient,S,61381,1/1/70,12/31/99,NA
+800878,clozapine,,Drug,RxNorm,Ingredient,S,2626,1/1/70,12/31/99,NA
+19095297,quetiapine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,343201,1/1/70,12/31/99,NA
+40179706,chlorpromazine hydrochloride 75 MG,,Drug,RxNorm,Clinical Drug Comp,S,991339,6/6/10,12/31/99,NA
+19019856,thioridazine 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198270,1/1/70,12/31/99,NA
+700325,thioridazine 25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198274,1/1/70,12/31/99,NA
+40165599,fluphenazine decanoate 25 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,859824,9/6/09,12/31/99,NA
+19052903,promazine,,Drug,RxNorm,Ingredient,S,8742,1/1/70,12/31/99,NA
+736019,risperidone 0.5 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,262222,1/1/70,12/31/99,NA
+40164054,asenapine 10 MG Sublingual Tablet,,Drug,RxNorm,Clinical Drug,S,859975,9/6/09,12/31/99,NA
+45892210,2 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify],,Drug,RxNorm,Quant Branded Drug,S,1602607,3/2/15,12/31/99,NA
+19030798,haloperidol 20 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,205958,1/1/70,12/31/99,NA
+42801040,molindone hydrochloride 50 MG Oral Tablet [Moban],,Drug,RxNorm,Branded Drug,S,1298924,7/2/12,12/31/99,NA
+19015937,olanzapine 7.5 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,565154,9/11/05,12/31/99,NA
+42800968,lurasidone hydrochloride 120 MG Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug,S,1297357,7/2/12,12/31/99,NA
+40179635,chlorpromazine hydrochloride 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,991039,6/6/10,12/31/99,NA
+40163884,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,858054,9/6/09,12/31/99,NA
+46275771,aripiprazole 300 MG Injection [Abilify],,Drug,RxNorm,Branded Drug,S,1659818,9/8/15,12/31/99,NA
+19022782,olanzapine 2.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,200034,1/1/70,12/31/99,NA
+19024330,haloperidol 10 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,200966,1/1/70,12/31/99,NA
+703090,mesoridazine 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,311551,1/1/70,12/31/99,NA
+46275323,brexpiprazole 3 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658341,9/8/15,12/31/99,NA
+19035692,perphenazine 16 MG Oral Tablet [Trilafon],,Drug,RxNorm,Branded Drug,S,207491,1/1/70,12/31/99,NA
+40033032,droperidol / fentanyl Injectable Solution,,Drug,RxNorm,Clinical Drug Form,S,372159,1/1/70,12/31/99,NA
+19031882,loxapine 10 MG Oral Capsule [Loxitane],,Drug,RxNorm,Branded Drug,S,206274,1/1/70,12/31/99,NA
+19077928,haloperidol 0.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,310670,1/1/70,12/31/99,NA
+19046816,quetiapine 400 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,616484,4/2/06,12/31/99,NA
+45892182,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1602163,3/2/15,12/31/99,NA
+19128380,olanzapine 5 MG Disintegrating Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,754506,3/2/08,12/31/99,NA
+35603058,olanzapine 300 MG Injection [Zyprexa],,Drug,RxNorm,Branded Drug,S,1718932,5/2/16,12/31/99,NA
+19036133,prochlorperazine 5 MG Rectal Suppository [Compazine],,Drug,RxNorm,Branded Drug,S,207641,1/1/70,12/31/99,NA
+45892208,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify],,Drug,RxNorm,Quant Branded Drug,S,1602604,3/2/15,12/31/99,NA
+46275315,brexpiprazole 1 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658333,9/8/15,12/31/99,NA
+745790,pimozide,,Drug,RxNorm,Ingredient,S,8331,1/1/70,12/31/99,NA
+19079155,olanzapine 7.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312079,1/1/70,12/31/99,NA
+800881,clozapine 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,197535,1/1/70,12/31/99,NA
+19038351,thioridazine 10 MG Oral Tablet [Mellaril],,Drug,RxNorm,Branded Drug,S,208382,1/1/70,12/31/99,NA
+19071496,ziprasidone 80 MG Oral Capsule [Geodon],,Drug,RxNorm,Branded Drug,S,284550,1/1/70,12/31/99,NA
+19097816,aripiprazole 20 MG,,Drug,RxNorm,Clinical Drug Comp,S,350670,1/1/70,12/31/99,NA
+19047193,prochlorperazine 10 MG [Compazine],,Drug,RxNorm,Branded Drug Comp,S,568433,9/11/05,12/31/99,NA
+40179690,chlorpromazine hydrochloride 30 MG Extended Release Oral Capsule,,Drug,RxNorm,Clinical Drug,S,991328,6/6/10,12/31/99,NA
+752211,prochlorperazine 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,316594,1/1/70,12/31/99,NA
+704988,trifluoperazine 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198323,1/1/70,12/31/99,NA
+19004696,risperidone 4 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,104784,1/1/70,12/31/99,NA
+752233,prochlorperazine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,316596,1/1/70,12/31/99,NA
+19004636,trifluoperazine 1 MG Oral Tablet [Stelazine],,Drug,RxNorm,Branded Drug,S,104754,1/1/70,12/31/99,NA
+19102476,risperidone 0.5 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,403825,1/1/70,12/31/99,NA
+19097800,aripiprazole 30 MG,,Drug,RxNorm,Clinical Drug Comp,S,350664,1/1/70,12/31/99,NA
+703252,24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega],,Drug,RxNorm,Quant Branded Drug,S,686443,2/25/07,12/31/99,NA
+766821,quetiapine 300 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312745,1/1/70,12/31/99,NA
+19082514,olanzapine 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,317450,1/1/70,12/31/99,NA
+757795,1.3 ML aripiprazole 7.5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,672356,1/14/07,12/31/99,NA
+19121001,aripiprazole 15 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,576004,9/11/05,12/31/99,NA
+40166657,fluphenazine hydrochloride 2.5 MG/ML Injectable Solution [Prolixin],,Drug,RxNorm,Branded Drug,S,865131,10/4/09,12/31/99,NA
+40163989,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,858057,9/6/09,12/31/99,NA
+19030602,haloperidol 1 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,205882,1/1/70,12/31/99,NA
+800935,clozapine 100 MG Disintegrating Oral Tablet [Fazaclo],,Drug,RxNorm,Branded Drug,S,542977,9/11/05,12/31/99,NA
+712619,ziprasidone 20 MG Oral Capsule [Geodon],,Drug,RxNorm,Branded Drug,S,285127,1/1/70,12/31/99,NA
+19121003,aripiprazole 30 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,576006,9/11/05,12/31/99,NA
+40163885,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,858055,9/6/09,12/31/99,NA
+19038684,thiothixene 5 MG Oral Capsule [Navane],,Drug,RxNorm,Branded Drug,S,208494,1/1/70,12/31/99,NA
+739323,droperidol,,Drug,RxNorm,Ingredient,S,3648,1/1/70,12/31/99,NA
+766844,quetiapine 100 MG,,Drug,RxNorm,Clinical Drug Comp,S,343199,1/1/70,12/31/99,NA
+739329,2 ML droperidol 2.5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,282485,1/1/70,12/31/99,NA
+733008,perphenazine,,Drug,RxNorm,Ingredient,S,8076,1/1/70,12/31/99,NA
+46275303,brexpiprazole 0.25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658319,9/8/15,12/31/99,NA
+700494,thiothixene 1 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313362,1/1/70,12/31/99,NA
+35603238,1 ML haloperidol 5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,1719646,5/2/16,12/31/99,NA
+19075608,clozapine 200 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,309374,1/1/70,12/31/99,NA
+19004693,risperidone 1 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,104781,1/1/70,12/31/99,NA
+40162707,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet [Triavil],,Drug,RxNorm,Branded Drug,S,856810,8/2/09,12/31/99,NA
+19080040,haloperidol 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,314034,1/1/70,12/31/99,NA
+40166643,fluphenazine hydrochloride 1 MG [Prolixin],,Drug,RxNorm,Branded Drug Comp,S,865118,10/4/09,12/31/99,NA
+766819,quetiapine 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312743,1/1/70,12/31/99,NA
+19118652,thioridazine 15 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569083,9/11/05,12/31/99,NA
+19118657,thioridazine 100 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569088,9/11/05,12/31/99,NA
+712643,ziprasidone 20 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,314286,1/1/70,12/31/99,NA
+700465,thiothixene,,Drug,RxNorm,Ingredient,S,10510,1/1/70,12/31/99,NA
+19098478,aripiprazole 15 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,352308,1/1/70,12/31/99,NA
+42628966,pimavanserin 17 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1791691,6/6/16,12/31/99,NA
+19081763,olanzapine 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,316404,1/1/70,12/31/99,NA
+752061,prochlorperazine,,Drug,RxNorm,Ingredient,S,8704,1/1/70,12/31/99,NA
+40166656,fluphenazine hydrochloride 2.5 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,865129,10/4/09,12/31/99,NA
+19006494,ziprasidone 60 MG [Geodon],,Drug,RxNorm,Branded Drug Comp,S,574977,9/11/05,12/31/99,NA
+19081397,haloperidol 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,316030,1/1/70,12/31/99,NA
+40163887,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,858052,9/6/09,12/31/99,NA
+40179633,chlorpromazine hydrochloride 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,991038,6/6/10,12/31/99,NA
+735979,risperidone,,Drug,RxNorm,Ingredient,S,35636,1/1/70,12/31/99,NA
+752095,prochlorperazine 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198365,1/1/70,12/31/99,NA
+19046813,quetiapine 100 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,565343,9/11/05,12/31/99,NA
+19048279,iloperidone 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848722,5/31/09,12/31/99,NA
+40166834,24 HR paliperidone 1.5 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,866103,11/1/09,12/31/99,NA
+35603288,cariprazine 3 MG Oral Capsule [Vraylar],,Drug,RxNorm,Branded Drug,S,1667670,5/2/16,12/31/99,NA
+19102185,risperidone 25 MG Injection,,Drug,RxNorm,Clinical Drug,S,402010,1/1/70,12/31/99,NA
+704989,trifluoperazine 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198324,1/1/70,12/31/99,NA
+19102213,aripiprazole 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,402131,1/1/70,12/31/99,NA
+40224293,clozapine 150 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1006801,9/5/10,12/31/99,NA
+35603243,1 ML haloperidol 5 MG/ML Injection [Haldol],,Drug,RxNorm,Quant Branded Drug,S,1719669,5/2/16,12/31/99,NA
+40166835,24 HR paliperidone 1.5 MG Extended Release Oral Tablet [Invega],,Drug,RxNorm,Quant Branded Drug,S,866105,11/1/09,12/31/99,NA
+712617,ziprasidone 60 MG Oral Capsule [Geodon],,Drug,RxNorm,Branded Drug,S,284549,1/1/70,12/31/99,NA
+19122479,aripiprazole 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,602964,2/26/06,12/31/99,NA
+19036272,promazine 50 MG Oral Tablet [Sparine],,Drug,RxNorm,Branded Drug,S,207702,1/1/70,12/31/99,NA
+757755,aripiprazole 1 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,485496,1/1/70,12/31/99,NA
+19035660,perphenazine 4 MG Oral Tablet [Trilafon],,Drug,RxNorm,Branded Drug,S,207489,1/1/70,12/31/99,NA
+757691,aripiprazole 30 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,349547,1/1/70,12/31/99,NA
+19098477,aripiprazole 10 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,352307,1/1/70,12/31/99,NA
+35603292,cariprazine 4.5 MG Oral Capsule [Vraylar],,Drug,RxNorm,Branded Drug,S,1667674,5/2/16,12/31/99,NA
+42801035,molindone hydrochloride 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1298910,7/2/12,12/31/99,NA
+19027427,haloperidol 5 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,204416,1/1/70,12/31/99,NA
+766820,quetiapine 25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312744,1/1/70,12/31/99,NA
+40163974,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,858051,9/6/09,12/31/99,NA
+46275317,brexpiprazole 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658335,9/8/15,12/31/99,NA
+785815,olanzapine 20 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,283639,1/1/70,12/31/99,NA
+1593510,1 ML haloperidol 5 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1876502,8/7/17,12/31/99,NA
+766927,24 HR quetiapine 300 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,721794,7/29/07,12/31/99,NA
+37498340,clozapine 50 MG Oral Tablet [Clozaril],,Drug,RxNorm,Branded Drug,S,2269081,5/4/20,12/31/99,NA
+40164052,asenapine,,Drug,RxNorm,Ingredient,S,784649,9/6/09,12/31/99,NA
+19004695,risperidone 3 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,104783,1/1/70,12/31/99,NA
+46275325,brexpiprazole 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658343,9/8/15,12/31/99,NA
+19099417,clozapine 25 MG Oral Tablet [Ivax brand of clozapine],,Drug,RxNorm,Branded Drug,S,358929,1/1/70,12/31/99,NA
+19019529,perphenazine 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198076,1/1/70,12/31/99,NA
+40231370,lurasidone hydrochloride 40 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1040031,12/5/10,12/31/99,NA
+46233814,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1650966,7/6/15,12/31/99,NA
+19021815,haloperidol 5 MG [Haldol],,Drug,RxNorm,Branded Drug Comp,S,565611,9/11/05,12/31/99,NA
+785875,olanzapine 10 MG Injection [Zyprexa],,Drug,RxNorm,Branded Drug,S,545353,9/11/05,12/31/99,NA
+40163888,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,858053,9/6/09,12/31/99,NA
+792299,loxapine 25 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,317119,1/1/70,12/31/99,NA
+40163943,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,858074,9/6/09,12/31/99,NA
+40179704,chlorpromazine hydrochloride 50 MG Oral Tablet [Thorazine],,Drug,RxNorm,Branded Drug,S,991338,6/6/10,12/31/99,NA
+40179681,chlorpromazine hydrochloride 25 MG Oral Tablet [Thorazine],,Drug,RxNorm,Branded Drug,S,991196,6/6/10,12/31/99,NA
+42707649,lurasidone hydrochloride 20 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1235247,5/7/12,12/31/99,NA
+739330,droperidol 2.5 MG/ML,,Drug,RxNorm,Clinical Drug Comp,S,315846,1/1/70,12/31/99,NA
+766930,24 HR quetiapine 400 MG Extended Release Oral Tablet [Seroquel],,Drug,RxNorm,Quant Branded Drug,S,721797,7/29/07,12/31/99,NA
+46275327,brexpiprazole 4 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658345,9/8/15,12/31/99,NA
+19017556,quetiapine 200 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,153640,1/1/70,12/31/99,NA
+19127038,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax],,Drug,RxNorm,Branded Drug,S,725064,9/2/07,12/31/99,NA
+19081392,haloperidol 1 MG,,Drug,RxNorm,Clinical Drug Comp,S,316025,1/1/70,12/31/99,NA
+19128377,olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,754503,3/2/08,12/31/99,NA
+19031664,aripiprazole 7.5 MG/ML [Abilify],,Drug,RxNorm,Branded Drug Comp,S,672538,1/14/07,12/31/99,NA
+46275767,aripiprazole 400 MG Injection [Abilify],,Drug,RxNorm,Branded Drug,S,1659814,9/8/15,12/31/99,NA
+35604629,ziprasidone Injection,,Drug,RxNorm,Clinical Drug Form,S,1727275,5/2/16,12/31/99,NA
+40231375,lurasidone hydrochloride 80 MG Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug,S,1040043,12/5/10,12/31/99,NA
+19006495,ziprasidone 80 MG [Geodon],,Drug,RxNorm,Branded Drug Comp,S,574978,9/11/05,12/31/99,NA
+40160985,24 HR quetiapine 50 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,853201,7/5/09,12/31/99,NA
+19046812,quetiapine 25 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,565342,9/11/05,12/31/99,NA
+19083127,thioridazine 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,328704,1/1/70,12/31/99,NA
+40179698,chlorpromazine hydrochloride 300 MG Extended Release Oral Capsule,,Drug,RxNorm,Clinical Drug,S,991361,6/6/10,12/31/99,NA
+736092,risperidone 0.5 MG,,Drug,RxNorm,Clinical Drug Comp,S,332434,1/1/70,12/31/99,NA
+19022539,risperidone 3 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,563752,9/11/05,12/31/99,NA
+701896,olanzapine 20 MG / samidorphan 10 MG Oral Tablet [Lybalvi],,Drug,RxNorm,Branded Drug,S,2570407,1/3/22,12/31/99,NA
+40162658,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,856706,8/2/09,12/31/99,NA
+700523,thiothixene 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,328733,1/1/70,12/31/99,NA
+703251,24 HR paliperidone 3 MG Extended Release Oral Tablet [Invega],,Drug,RxNorm,Quant Branded Drug,S,686441,2/25/07,12/31/99,NA
+40165567,haloperidol decanoate 50 MG/ML [Haldol],,Drug,RxNorm,Branded Drug Comp,S,859868,9/6/09,12/31/99,NA
+40179707,chlorpromazine hydrochloride 75 MG Extended Release Oral Capsule,,Drug,RxNorm,Clinical Drug,S,991340,6/6/10,12/31/99,NA
+700495,thiothixene 20 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313363,1/1/70,12/31/99,NA
+46275309,brexpiprazole 0.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658327,9/8/15,12/31/99,NA
+766926,24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel],,Drug,RxNorm,Quant Branded Drug,S,721793,7/29/07,12/31/99,NA
+19004584,haloperidol 10 MG Oral Tablet [Serenace],,Drug,RxNorm,Branded Drug,S,104738,1/1/70,12/31/99,NA
+19088645,thiothixene 5 MG [Navane],,Drug,RxNorm,Branded Drug Comp,S,569186,9/11/05,12/31/99,NA
+46233823,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1650975,7/6/15,12/31/99,NA
+19016821,olanzapine 10 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,153048,1/1/70,12/31/99,NA
+755855,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,721787,7/29/07,12/31/99,NA
+800921,clozapine 50 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,429212,1/1/70,12/31/99,NA
+19083158,trifluoperazine 2 MG,,Drug,RxNorm,Clinical Drug Comp,S,328790,1/1/70,12/31/99,NA
+37003644,4 ML amisulpride 2.5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,2467148,1/4/21,12/31/99,NA
+40164058,asenapine 5 MG Sublingual Tablet,,Drug,RxNorm,Clinical Drug,S,859981,9/6/09,12/31/99,NA
+40165807,fluphenazine hydrochloride 10 MG [Prolixin],,Drug,RxNorm,Branded Drug Comp,S,859842,9/6/09,12/31/99,NA
+757756,aripiprazole 1 MG/ML Oral Solution [Abilify],,Drug,RxNorm,Branded Drug,S,544412,9/11/05,12/31/99,NA
+756018,fluphenazine,,Drug,RxNorm,Ingredient,S,4496,1/1/70,12/31/99,NA
+40179705,chlorpromazine hydrochloride 50 MG [Thorazine],,Drug,RxNorm,Branded Drug Comp,S,991337,6/6/10,12/31/99,NA
+19036131,prochlorperazine 25 MG Rectal Suppository [Compazine],,Drug,RxNorm,Branded Drug,S,207639,1/1/70,12/31/99,NA
+19015936,olanzapine 5 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,565153,9/11/05,12/31/99,NA
+40179676,chlorpromazine hydrochloride 200 MG Oral Tablet [Thorazine],,Drug,RxNorm,Branded Drug,S,991190,6/6/10,12/31/99,NA
+40179694,chlorpromazine hydrochloride 30 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,991332,6/6/10,12/31/99,NA
+19126600,risperidone 50 MG Injection [Risperdal],,Drug,RxNorm,Branded Drug,S,706829,7/1/07,12/31/99,NA
+800933,clozapine 100 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,476177,1/1/70,12/31/99,NA
+785842,olanzapine 5 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,314155,1/1/70,12/31/99,NA
+766848,quetiapine 150 MG,,Drug,RxNorm,Clinical Drug Comp,S,393456,1/1/70,12/31/99,NA
+46233816,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,1650968,7/6/15,12/31/99,NA
+19081394,haloperidol 2 MG,,Drug,RxNorm,Clinical Drug Comp,S,316027,1/1/70,12/31/99,NA
+40230761,lurasidone,,Drug,RxNorm,Ingredient,S,1040028,12/5/10,12/31/99,NA
+757759,aripiprazole 2 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,615172,4/2/06,12/31/99,NA
+19124361,aripiprazole 15 MG Disintegrating Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,643023,8/27/06,12/31/99,NA
+40068725,perphenazine Injectable Solution,,Drug,RxNorm,Clinical Drug Form,S,373297,1/1/70,12/31/99,NA
+46275300,brexpiprazole,,Drug,RxNorm,Ingredient,S,1658314,9/8/15,12/31/99,NA
+43532950,lurasidone hydrochloride 60 MG Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug,S,1431237,8/5/13,12/31/99,NA
+40179637,chlorpromazine hydrochloride 10 MG [Thorazine],,Drug,RxNorm,Branded Drug Comp,S,991040,6/6/10,12/31/99,NA
+40165808,fluphenazine hydrochloride 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,860917,9/6/09,12/31/99,NA
+752235,prochlorperazine 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,317476,1/1/70,12/31/99,NA
+766924,quetiapine 50 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,616489,4/2/06,12/31/99,NA
+40166650,fluphenazine hydrochloride 2.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,865123,10/4/09,12/31/99,NA
+19135467,{2 (iloperidone 1 MG Oral Tablet [Fanapt]) / 2 (iloperidone 2 MG Oral Tablet [Fanapt]) / 2 (iloperidone 4 MG Oral Tablet [Fanapt]) / 2 (iloperidone 6 MG Oral Tablet [Fanapt]) } Pack [Fanapt Titration Pack],,Drug,RxNorm,Branded Pack,S,848752,5/31/09,12/31/99,NA
+19095296,quetiapine 200 MG,,Drug,RxNorm,Clinical Drug Comp,S,343200,1/1/70,12/31/99,NA
+766929,24 HR quetiapine 400 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,721796,7/29/07,12/31/99,NA
+35603286,cariprazine 3 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1667668,5/2/16,12/31/99,NA
+700393,thioridazine 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,313354,1/1/70,12/31/99,NA
+963801,Sensor aripiprazole 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1998456,4/2/18,12/31/99,NA
+800934,clozapine 25 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,476179,1/1/70,12/31/99,NA
+736134,risperidone 3 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,616698,4/2/06,12/31/99,NA
+766530,haloperidol 2 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,141935,1/1/70,12/31/99,NA
+19088644,thiothixene 2 MG [Navane],,Drug,RxNorm,Branded Drug Comp,S,569185,9/11/05,12/31/99,NA
+19019530,perphenazine 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198077,1/1/70,12/31/99,NA
+19047064,olanzapine 2.5 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,212405,1/1/70,12/31/99,NA
+19079153,olanzapine 15 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312077,1/1/70,12/31/99,NA
+40179658,chlorpromazine hydrochloride 100 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,991053,6/6/10,12/31/99,NA
+733095,perphenazine 2 MG,,Drug,RxNorm,Clinical Drug Comp,S,316469,1/1/70,12/31/99,NA
+46233822,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,1650974,7/6/15,12/31/99,NA
+766816,quetiapine 100 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,153639,1/1/70,12/31/99,NA
+19079462,risperidone 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312830,1/1/70,12/31/99,NA
+756263,5 ML fluphenazine 25 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,727557,9/2/07,12/31/99,NA
+19035659,perphenazine 2 MG Oral Tablet [Trilafon],,Drug,RxNorm,Branded Drug,S,207488,1/1/70,12/31/99,NA
+700396,thioridazine 30 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,313358,1/1/70,12/31/99,NA
+19035691,perphenazine 8 MG Oral Tablet [Trilafon],,Drug,RxNorm,Branded Drug,S,207490,1/1/70,12/31/99,NA
+19038357,thioridazine 100 MG Oral Tablet [Mellaril],,Drug,RxNorm,Branded Drug,S,208389,1/1/70,12/31/99,NA
+46233821,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1650973,7/6/15,12/31/99,NA
+19124506,risperidone 0.25 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,645037,8/27/06,12/31/99,NA
+40166652,fluphenazine hydrochloride 2.5 MG Oral Tablet [Prolixin],,Drug,RxNorm,Branded Drug,S,865127,10/4/09,12/31/99,NA
+19021820,haloperidol 2 MG [Haldol],,Drug,RxNorm,Branded Drug Comp,S,566797,9/11/05,12/31/99,NA
+40163299,prochlorperazine 15 MG [Compazine],,Drug,RxNorm,Branded Drug Comp,S,856622,8/2/09,12/31/99,NA
+19004583,haloperidol 5 MG Oral Tablet [Serenace],,Drug,RxNorm,Branded Drug,S,104737,1/1/70,12/31/99,NA
+19022540,risperidone 4 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,563753,9/11/05,12/31/99,NA
+19085164,ziprasidone 20 MG,,Drug,RxNorm,Clinical Drug Comp,S,330414,1/1/70,12/31/99,NA
+46233824,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,1650976,7/6/15,12/31/99,NA
+40165810,fluphenazine hydrochloride 5 MG Oral Tablet [Prolixin],,Drug,RxNorm,Branded Drug,S,860920,9/6/09,12/31/99,NA
+40166648,fluphenazine hydrochloride 2.5 MG,,Drug,RxNorm,Clinical Drug Comp,S,865122,10/4/09,12/31/99,NA
+703126,mesoridazine 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,329992,1/1/70,12/31/99,NA
+35201708,prochlorperazine 5 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,2102949,12/3/18,12/31/99,NA
+736021,risperidone 0.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312829,1/1/70,12/31/99,NA
+19083130,thioridazine 50 MG,,Drug,RxNorm,Clinical Drug Comp,S,328708,1/1/70,12/31/99,NA
+19086244,thiothixene 2 MG,,Drug,RxNorm,Clinical Drug Comp,S,330820,1/1/70,12/31/99,NA
+19121000,aripiprazole 10 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,576003,9/11/05,12/31/99,NA
+19098480,aripiprazole 30 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,352310,1/1/70,12/31/99,NA
+37498670,Lumateperone 42 MG Oral Capsule [Caplyta],,Drug,RxNorm,Branded Drug,S,2275613,5/4/20,12/31/99,NA
+700326,thioridazine 50 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198275,1/1/70,12/31/99,NA
+736054,risperidone 3 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312832,1/1/70,12/31/99,NA
+19019528,perphenazine 16 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198075,1/1/70,12/31/99,NA
+785821,olanzapine 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,314154,1/1/70,12/31/99,NA
+19088643,thiothixene 1 MG [Navane],,Drug,RxNorm,Branded Drug Comp,S,569184,9/11/05,12/31/99,NA
+42628962,pimavanserin,,Drug,RxNorm,Ingredient,S,1791685,6/6/16,12/31/99,NA
+42801020,molindone hydrochloride 10 MG Oral Tablet [Moban],,Drug,RxNorm,Branded Drug,S,1298883,7/2/12,12/31/99,NA
+35603237,haloperidol Injection,,Drug,RxNorm,Clinical Drug Form,S,1719645,5/2/16,12/31/99,NA
+37003645,4 ML amisulpride 2.5 MG/ML Injection [Barhemsys],,Drug,RxNorm,Quant Branded Drug,S,2467149,1/4/21,12/31/99,NA
+766925,24 HR quetiapine 200 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,721791,7/29/07,12/31/99,NA
+19004691,clozapine 100 MG Oral Tablet [Clozaril],,Drug,RxNorm,Branded Drug,S,104776,1/1/70,12/31/99,NA
+19048334,iloperidone 6 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848744,5/31/09,12/31/99,NA
+19114105,clozapine 25 MG Disintegrating Oral Tablet [Fazaclo],,Drug,RxNorm,Branded Drug,S,543013,9/11/05,12/31/99,NA
+19102252,aripiprazole 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,402368,1/1/70,12/31/99,NA
+19045813,loxapine 10 MG [Loxitane],,Drug,RxNorm,Branded Drug Comp,S,567127,9/11/05,12/31/99,NA
+19126596,risperidone 12.5 MG Injection [Risperdal],,Drug,RxNorm,Branded Drug,S,706825,7/1/07,12/31/99,NA
+40169353,24 HR quetiapine 150 MG Extended Release Oral Tablet [Seroquel],,Drug,RxNorm,Quant Branded Drug,S,895671,1/31/10,12/31/99,NA
+41086893,Chlorpromazine 50 MG Injectable Solution,,Drug,RxNorm Extension,Clinical Drug,S,OMOP2284855,8/24/17,12/31/99,NA
+35866135,droperidol 5 MG,,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP5022367,10/2/20,12/31/99,NA
+21086405,Prochlorperazine 5 MG Oral Granules,,Drug,RxNorm Extension,Clinical Drug,S,OMOP278461,8/24/17,12/31/99,NA
+703244,paliperidone,,Drug,RxNorm,Ingredient,S,679314,1/28/07,12/31/99,NA
+40166646,fluphenazine hydrochloride 10 MG Oral Tablet [Permitil],,Drug,RxNorm,Branded Drug,S,865121,10/4/09,12/31/99,NA
+19124507,risperidone 0.25 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,645038,8/27/06,12/31/99,NA
+37498664,Lumateperone 42 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,2275607,5/4/20,12/31/99,NA
+800892,clozapine 25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,197536,1/1/70,12/31/99,NA
+19057273,perphenazine 5 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,238104,1/1/70,12/31/99,NA
+700522,thiothixene 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,328732,1/1/70,12/31/99,NA
+40165564,haloperidol decanoate 50 MG/ML,,Drug,RxNorm,Clinical Drug Comp,S,859866,9/6/09,12/31/99,NA
+19031886,loxapine 25 MG Oral Capsule [Loxitane],,Drug,RxNorm,Branded Drug,S,206278,1/1/70,12/31/99,NA
+19085098,olanzapine 15 MG,,Drug,RxNorm,Clinical Drug Comp,S,330387,1/1/70,12/31/99,NA
+40163297,prochlorperazine 10 MG Extended Release Oral Capsule [Compazine],,Drug,RxNorm,Branded Drug,S,856621,8/2/09,12/31/99,NA
+19085166,ziprasidone 60 MG,,Drug,RxNorm,Clinical Drug Comp,S,330416,1/1/70,12/31/99,NA
+40179619,chlorpromazine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,992688,6/6/10,12/31/99,NA
+736053,risperidone 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312831,1/1/70,12/31/99,NA
+19004694,risperidone 2 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,104782,1/1/70,12/31/99,NA
+19024328,haloperidol 5 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,200964,1/1/70,12/31/99,NA
+19128585,prochlorperazine 1 MG/ML Oral Solution [Stemetil],,Drug,RxNorm,Branded Drug,S,755237,3/2/08,12/31/99,NA
+40179703,chlorpromazine hydrochloride 50 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,991336,6/6/10,12/31/99,NA
+19019581,perphenazine 8 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198078,1/1/70,12/31/99,NA
+35603090,haloperidol decanoate 100 MG/ML Injection,,Drug,RxNorm,Clinical Drug,S,1719804,5/2/16,12/31/99,NA
+46234550,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]) } Pack [Seroquel XR 14-Day Sample Kit],,Drug,RxNorm,Branded Pack,S,1648647,7/6/15,12/31/99,NA
+757688,aripiprazole,,Drug,RxNorm,Ingredient,S,89013,1/1/70,12/31/99,NA
+19126598,risperidone 37.5 MG Injection [Risperdal],,Drug,RxNorm,Branded Drug,S,706827,7/1/07,12/31/99,NA
+40166641,fluphenazine hydrochloride 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,865117,10/4/09,12/31/99,NA
+19124358,aripiprazole 10 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,643019,8/27/06,12/31/99,NA
+40098114,quetiapine Oral Tablet,,Drug,RxNorm,Clinical Drug Form,S,374646,1/1/70,12/31/99,NA
+736058,risperidone 2 MG,,Drug,RxNorm,Clinical Drug Comp,S,316645,1/1/70,12/31/99,NA
+46221719,asenapine 2.5 MG Sublingual Tablet,,Drug,RxNorm,Clinical Drug,S,1606337,5/4/15,12/31/99,NA
+46275319,brexpiprazole 2 MG Oral Tablet [Rexulti],,Drug,RxNorm,Branded Drug,S,1658337,9/8/15,12/31/99,NA
+35603294,cariprazine 6 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1667676,5/2/16,12/31/99,NA
+792296,loxapine 5 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,311386,1/1/70,12/31/99,NA
+19102552,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,403969,1/1/70,12/31/99,NA
+42800967,lurasidone hydrochloride 120 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1297278,7/2/12,12/31/99,NA
+709699,molindone,,Drug,RxNorm,Ingredient,S,7019,1/1/70,12/31/99,NA
+35605390,chlorpromazine hydrochloride 25 MG/ML Injection,,Drug,RxNorm,Clinical Drug,S,1730077,5/2/16,12/31/99,NA
+19136626,sulpiride,,Drug,RxNorm,Ingredient,S,10239,1/1/70,12/31/99,NA
+766814,quetiapine,,Drug,RxNorm,Ingredient,S,51272,1/1/70,12/31/99,NA
+785816,olanzapine 20 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,284514,1/1/70,12/31/99,NA
+19124360,aripiprazole 15 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,643022,8/27/06,12/31/99,NA
+700493,thiothixene 10 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313361,1/1/70,12/31/99,NA
+19080127,loxapine 50 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,314075,1/1/70,12/31/99,NA
+40166665,fluphenazine enanthate 25 MG/ML Injectable Solution [Prolixin],,Drug,RxNorm,Branded Drug,S,865141,10/4/09,12/31/99,NA
+40165811,fluphenazine hydrochloride 5 MG [Prolixin],,Drug,RxNorm,Branded Drug Comp,S,860919,9/6/09,12/31/99,NA
+766815,quetiapine 25 MG Oral Tablet [Seroquel],,Drug,RxNorm,Branded Drug,S,153638,1/1/70,12/31/99,NA
+40162665,amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,856720,8/2/09,12/31/99,NA
+766850,quetiapine 400 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,616483,4/2/06,12/31/99,NA
+19102836,aripiprazole 5 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,404602,1/1/70,12/31/99,NA
+19102163,risperidone 2 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,401954,1/1/70,12/31/99,NA
+40223451,clozapine 200 MG Disintegrating Oral Tablet [Fazaclo],,Drug,RxNorm,Branded Drug,S,996923,8/1/10,12/31/99,NA
+19088866,trifluoperazine 5 MG [Stelazine],,Drug,RxNorm,Branded Drug Comp,S,563736,9/11/05,12/31/99,NA
+35604603,{1 (cariprazine 1.5 MG Oral Capsule [Vraylar]) / 6 (cariprazine 3 MG Oral Capsule [Vraylar]) } Pack [Vraylar 1.5/3 Mixed Pack],,Drug,RxNorm,Branded Pack,S,1741747,5/2/16,12/31/99,NA
+19124477,lithium,,Drug,RxNorm,Ingredient,S,6448,1/1/70,12/31/99,NA
+19128379,olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,754505,3/2/08,12/31/99,NA
+712642,ziprasidone 80 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313778,1/1/70,12/31/99,NA
+19031663,aripiprazole 2 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,615171,4/2/06,12/31/99,NA
+19031662,aripiprazole 5 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,576524,9/11/05,12/31/99,NA
+40230763,lurasidone Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug Form,S,1040035,12/5/10,12/31/99,NA
+19098479,aripiprazole 20 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,352309,1/1/70,12/31/99,NA
+37498338,clozapine 200 MG Oral Tablet [Clozaril],,Drug,RxNorm,Branded Drug,S,2269079,5/4/20,12/31/99,NA
+736056,risperidone 1 MG,,Drug,RxNorm,Clinical Drug Comp,S,316643,1/1/70,12/31/99,NA
+19117186,risperidone 6 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,565391,9/11/05,12/31/99,NA
+705048,trifluoperazine 5 MG,,Drug,RxNorm,Clinical Drug Comp,S,328791,1/1/70,12/31/99,NA
+19039747,trifluoperazine 2 MG Oral Tablet [Stelazine],,Drug,RxNorm,Branded Drug,S,208823,1/1/70,12/31/99,NA
+40179680,chlorpromazine hydrochloride 25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,991194,6/6/10,12/31/99,NA
+40165813,fluphenazine hydrochloride 5 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,861848,9/6/09,12/31/99,NA
+19046814,quetiapine 200 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,565344,9/11/05,12/31/99,NA
+43532949,lurasidone hydrochloride 60 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1431235,8/5/13,12/31/99,NA
+19022538,risperidone 2 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,563751,9/11/05,12/31/99,NA
+19088870,trifluoperazine 10 MG [Stelazine],,Drug,RxNorm,Branded Drug Comp,S,569473,9/11/05,12/31/99,NA
+700501,thiothixene 1 MG,,Drug,RxNorm,Clinical Drug Comp,S,328731,1/1/70,12/31/99,NA
+752092,prochlorperazine 25 MG Rectal Suppository,,Drug,RxNorm,Clinical Drug,S,198159,1/1/70,12/31/99,NA
+700299,thioridazine,,Drug,RxNorm,Ingredient,S,10502,1/1/70,12/31/99,NA
+19102555,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,403972,1/1/70,12/31/99,NA
+19046818,quetiapine 150 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,828288,1/4/09,12/31/99,NA
+19024327,haloperidol 5 MG Oral Tablet [Fortunan],,Drug,RxNorm,Branded Drug,S,200963,1/1/70,12/31/99,NA
+19079152,olanzapine 10 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312076,1/1/70,12/31/99,NA
+19048337,iloperidone 8 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848748,5/31/09,12/31/99,NA
+739362,droperidol 1 MG/ML,,Drug,RxNorm,Clinical Drug Comp,S,336652,1/1/70,12/31/99,NA
+963807,Sensor aripiprazole 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1998462,4/2/18,12/31/99,NA
+745826,pimozide 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312439,1/1/70,12/31/99,NA
+766843,quetiapine 300 MG,,Drug,RxNorm,Clinical Drug Comp,S,331545,1/1/70,12/31/99,NA
+35606381,droperidol Injection,,Drug,RxNorm,Clinical Drug Form,S,1743569,5/2/16,12/31/99,NA
+963802,Sensor aripiprazole 2 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,1998457,4/2/18,12/31/99,NA
+792295,loxapine 25 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,311385,1/1/70,12/31/99,NA
+19102187,risperidone 50 MG Injection,,Drug,RxNorm,Clinical Drug,S,402012,1/1/70,12/31/99,NA
+35603296,cariprazine 6 MG Oral Capsule [Vraylar],,Drug,RxNorm,Branded Drug,S,1667678,5/2/16,12/31/99,NA
+19114355,prochlorperazine 25 MG [Compazine],,Drug,RxNorm,Branded Drug Comp,S,544002,9/11/05,12/31/99,NA
+19022643,risperidone 0.5 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,574691,9/11/05,12/31/99,NA
+40166659,fluphenazine hydrochloride 5 MG Oral Tablet [Permitil],,Drug,RxNorm,Branded Drug,S,865139,10/4/09,12/31/99,NA
+40179655,chlorpromazine hydrochloride 100 MG Oral Tablet [Thorazine],,Drug,RxNorm,Branded Drug,S,991046,6/6/10,12/31/99,NA
+19121002,aripiprazole 20 MG [Abilify],,Drug,RxNorm,Branded Drug Comp,S,576005,9/11/05,12/31/99,NA
+35603093,1 ML haloperidol decanoate 50 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,1719862,5/2/16,12/31/99,NA
+736055,risperidone 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,314211,1/1/70,12/31/99,NA
+40162726,amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet [Triavil],,Drug,RxNorm,Branded Drug,S,856844,8/2/09,12/31/99,NA
+42801032,molindone hydrochloride 25 MG Oral Tablet [Moban],,Drug,RxNorm,Branded Drug,S,1298908,7/2/12,12/31/99,NA
+19016800,olanzapine 7.5 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,153047,1/1/70,12/31/99,NA
+40162704,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,856797,8/2/09,12/31/99,NA
+19005340,paliperidone 6 MG [Invega],,Drug,RxNorm,Branded Drug Comp,S,686442,2/25/07,12/31/99,NA
+40179678,chlorpromazine hydrochloride 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,991193,6/6/10,12/31/99,NA
+1559979,pimavanserin 34 MG Oral Capsule [Nuplazid],,Drug,RxNorm,Branded Drug,S,2049278,8/6/18,12/31/99,NA
+19048301,iloperidone 1 MG Oral Tablet [Fanapt],,Drug,RxNorm,Branded Drug,S,848726,5/31/09,12/31/99,NA
+35603054,olanzapine 405 MG Injection [Zyprexa],,Drug,RxNorm,Branded Drug,S,1718928,5/2/16,12/31/99,NA
+19038686,thiothixene 20 MG Oral Capsule [Navane],,Drug,RxNorm,Branded Drug,S,208496,1/1/70,12/31/99,NA
+19126594,risperidone 12.5 MG Injection,,Drug,RxNorm,Clinical Drug,S,706822,7/1/07,12/31/99,NA
+46275765,aripiprazole 400 MG Injection,,Drug,RxNorm,Clinical Drug,S,1659812,9/8/15,12/31/99,NA
+19005371,paliperidone 9 MG [Invega],,Drug,RxNorm,Branded Drug Comp,S,686444,2/25/07,12/31/99,NA
+794852,chlorpromazine,,Drug,RxNorm,Ingredient,S,2403,1/1/70,12/31/99,NA
+40231374,lurasidone hydrochloride 80 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1040041,12/5/10,12/31/99,NA
+766923,quetiapine 50 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,616487,4/2/06,12/31/99,NA
+19015939,olanzapine 2.5 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,572594,9/11/05,12/31/99,NA
+766529,haloperidol,,Drug,RxNorm,Ingredient,S,5093,1/1/70,12/31/99,NA
+19016226,haloperidol 5 MG Oral Tablet [Kentace],,Drug,RxNorm,Branded Drug,S,152667,1/1/70,12/31/99,NA
+40162711,amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,856825,8/2/09,12/31/99,NA
+19128378,olanzapine 15 MG Disintegrating Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,754504,3/2/08,12/31/99,NA
+19004670,clozapine 25 MG Oral Tablet [Clozaril],,Drug,RxNorm,Branded Drug,S,104775,1/1/70,12/31/99,NA
+40165801,fluphenazine hydrochloride 0.5 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,859835,9/6/09,12/31/99,NA
+785814,olanzapine 15 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,261337,1/1/70,12/31/99,NA
+40179636,chlorpromazine hydrochloride 10 MG Oral Tablet [Thorazine],,Drug,RxNorm,Branded Drug,S,991041,6/6/10,12/31/99,NA
+757690,aripiprazole 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,349545,1/1/70,12/31/99,NA
+752208,prochlorperazine 10 MG Extended Release Oral Capsule,,Drug,RxNorm,Clinical Drug,S,314168,1/1/70,12/31/99,NA
+800937,clozapine 12.5 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,721773,7/29/07,12/31/99,NA
+704990,trifluoperazine 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198325,1/1/70,12/31/99,NA
+37499820,2 ML amisulpride 2.5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,2284232,5/4/20,12/31/99,NA
+19097799,aripiprazole 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,350663,1/1/70,12/31/99,NA
+35603244,haloperidol 5 MG/ML Injection [Haldol],,Drug,RxNorm,Branded Drug,S,1719670,5/2/16,12/31/99,NA
+19025640,pimozide 2 MG Oral Tablet [Orap],,Drug,RxNorm,Branded Drug,S,201653,1/1/70,12/31/99,NA
+40169352,24 HR quetiapine 150 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,895670,1/31/10,12/31/99,NA
+46275769,aripiprazole 300 MG Injection,,Drug,RxNorm,Clinical Drug,S,1659816,9/8/15,12/31/99,NA
+19127042,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax],,Drug,RxNorm,Branded Drug,S,725072,9/2/07,12/31/99,NA
+712648,ziprasidone 20 MG Injection,,Drug,RxNorm,Clinical Drug,S,351223,1/1/70,12/31/99,NA
+19085511,trifluoperazine 10 MG,,Drug,RxNorm,Clinical Drug Comp,S,330530,1/1/70,12/31/99,NA
+40163894,2 ML fluphenazine decanoate 25 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,861851,9/6/09,12/31/99,NA
+712616,ziprasidone 40 MG Oral Capsule [Geodon],,Drug,RxNorm,Branded Drug,S,284548,1/1/70,12/31/99,NA
+35603284,cariprazine 1.5 MG Oral Capsule [Vraylar],,Drug,RxNorm,Branded Drug,S,1667666,5/2/16,12/31/99,NA
+40165806,fluphenazine hydrochloride 10 MG Oral Tablet [Prolixin],,Drug,RxNorm,Branded Drug,S,859843,9/6/09,12/31/99,NA
+46233820,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega],,Drug,RxNorm,Quant Branded Drug,S,1650972,7/6/15,12/31/99,NA
+43032392,Fluphenazine 25 MG Injectable Solution,,Drug,RxNorm Extension,Clinical Drug,S,OMOP4847443,10/6/19,12/31/99,NA
+19031887,loxapine 50 MG Oral Capsule [Loxitane],,Drug,RxNorm,Branded Drug,S,206279,1/1/70,12/31/99,NA
+19004637,trifluoperazine 5 MG Oral Tablet [Stelazine],,Drug,RxNorm,Branded Drug,S,104755,1/1/70,12/31/99,NA
+19077930,haloperidol 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,310672,1/1/70,12/31/99,NA
+35603091,1 ML haloperidol decanoate 100 MG/ML Injection [Haldol],,Drug,RxNorm,Quant Branded Drug,S,1719847,5/2/16,12/31/99,NA
+40165563,haloperidol decanoate 100 MG/ML [Haldol],,Drug,RxNorm,Branded Drug Comp,S,859872,9/6/09,12/31/99,NA
+19017241,iloperidone,,Drug,RxNorm,Ingredient,S,73178,5/31/09,12/31/99,NA
+19036246,prochlorperazine 10 MG Oral Tablet [Compazine],,Drug,RxNorm,Branded Drug,S,207685,1/1/70,12/31/99,NA
+19016799,olanzapine 5 MG Oral Tablet [Zyprexa],,Drug,RxNorm,Branded Drug,S,153046,1/1/70,12/31/99,NA
+42801033,molindone hydrochloride 25 MG [Moban],,Drug,RxNorm,Branded Drug Comp,S,1298907,7/2/12,12/31/99,NA
+19115943,risperidone 1 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,563750,9/11/05,12/31/99,NA
+703250,24 HR paliperidone 9 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,672571,1/14/07,12/31/99,NA
+40165565,haloperidol decanoate 50 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,859867,9/6/09,12/31/99,NA
+19081765,olanzapine 7.5 MG,,Drug,RxNorm,Clinical Drug Comp,S,316406,1/1/70,12/31/99,NA
+700498,thiothixene 5 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313366,1/1/70,12/31/99,NA
+19068728,risperidone 0.25 MG Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,262077,1/1/70,12/31/99,NA
+46233819,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1650971,7/6/15,12/31/99,NA
+1559973,pimavanserin 10 MG Oral Tablet [Nuplazid],,Drug,RxNorm,Branded Drug,S,2049271,8/6/18,12/31/99,NA
+700496,thiothixene 2 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313364,1/1/70,12/31/99,NA
+19124133,risperidone 3 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,630890,6/4/06,12/31/99,NA
+19079154,olanzapine 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312078,1/1/70,12/31/99,NA
+19048333,iloperidone 4 MG Oral Tablet [Fanapt],,Drug,RxNorm,Branded Drug,S,848742,5/31/09,12/31/99,NA
+19015940,olanzapine 15 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,574557,9/11/05,12/31/99,NA
+19083151,thioridazine 100 MG,,Drug,RxNorm,Clinical Drug Comp,S,328710,1/1/70,12/31/99,NA
+19057607,amisulpride,,Drug,RxNorm,Ingredient,S,46303,1/1/70,12/31/99,NA
+40179622,chlorpromazine 25 MG [Thorazine],,Drug,RxNorm,Branded Drug Comp,S,992690,6/6/10,12/31/99,NA
+42628970,pimavanserin 17 MG Oral Tablet [Nuplazid],,Drug,RxNorm,Branded Drug,S,1791697,6/6/16,12/31/99,NA
+42801036,molindone hydrochloride 5 MG Oral Tablet [Moban],,Drug,RxNorm,Branded Drug,S,1298912,7/2/12,12/31/99,NA
+19019694,prochlorperazine 2.5 MG Rectal Suppository,,Drug,RxNorm,Clinical Drug,S,198160,1/1/70,12/31/99,NA
+19038355,thioridazine 50 MG Oral Tablet [Mellaril],,Drug,RxNorm,Branded Drug,S,208387,1/1/70,12/31/99,NA
+19022642,risperidone 0.25 MG [Risperdal],,Drug,RxNorm,Branded Drug Comp,S,574662,9/11/05,12/31/99,NA
+736061,risperidone 0.25 MG,,Drug,RxNorm,Clinical Drug Comp,S,331477,1/1/70,12/31/99,NA
+792263,loxapine,,Drug,RxNorm,Ingredient,S,6475,1/1/70,12/31/99,NA
+19080130,loxapine 10 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,314078,1/1/70,12/31/99,NA
+19047160,prochlorperazine 5 MG [Compazine],,Drug,RxNorm,Branded Drug Comp,S,568392,9/11/05,12/31/99,NA
+19015938,olanzapine 10 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,565155,9/11/05,12/31/99,NA
+752209,2 ML prochlorperazine 5 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,314192,1/1/70,12/31/99,NA
+19132011,risperidone 1 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,806298,9/28/08,12/31/99,NA
+19124359,aripiprazole 10 MG Disintegrating Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,643021,8/27/06,12/31/99,NA
+736060,risperidone 4 MG,,Drug,RxNorm,Clinical Drug Comp,S,317487,1/1/70,12/31/99,NA
+19102554,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,403971,1/1/70,12/31/99,NA
+733069,perphenazine 3.2 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,312323,1/1/70,12/31/99,NA
+19048336,iloperidone 6 MG Oral Tablet [Fanapt],,Drug,RxNorm,Branded Drug,S,848746,5/31/09,12/31/99,NA
+963808,Sensor aripiprazole 5 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,1998463,4/2/18,12/31/99,NA
+40162661,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet [Triavil],,Drug,RxNorm,Branded Drug,S,856717,8/2/09,12/31/99,NA
+19046815,quetiapine 300 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,574938,9/11/05,12/31/99,NA
+35605389,1 ML chlorpromazine hydrochloride 25 MG/ML Injection,,Drug,RxNorm,Quant Clinical Drug,S,1730076,5/2/16,12/31/99,NA
+752129,prochlorperazine 25 MG Rectal Suppository [Compro],,Drug,RxNorm,Branded Drug,S,284254,1/1/70,12/31/99,NA
+736016,risperidone 1 MG/ML Oral Solution [Risperdal],,Drug,RxNorm,Branded Drug,S,211489,1/1/70,12/31/99,NA
+35603290,cariprazine 4.5 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1667672,5/2/16,12/31/99,NA
+46221741,asenapine 2.5 MG Sublingual Tablet [Saphris],,Drug,RxNorm,Branded Drug,S,1606490,5/4/15,12/31/99,NA
+37499821,2 ML amisulpride 2.5 MG/ML Injection [Barhemsys],,Drug,RxNorm,Quant Branded Drug,S,2284237,5/4/20,12/31/99,NA
+1559976,pimavanserin 34 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,2049275,8/6/18,12/31/99,NA
+19096776,aripiprazole 15 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,349490,1/1/70,12/31/99,NA
+19047159,prochlorperazine 2.5 MG [Compazine],,Drug,RxNorm,Branded Drug Comp,S,568387,9/11/05,12/31/99,NA
+752125,prochlorperazine 1 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,245963,1/1/70,12/31/99,NA
+42707650,lurasidone hydrochloride 20 MG Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug,S,1235249,5/7/12,12/31/99,NA
+19083129,thioridazine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,328706,1/1/70,12/31/99,NA
+19118659,thioridazine 150 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569090,9/11/05,12/31/99,NA
+35603277,cariprazine,,Drug,RxNorm,Ingredient,S,1667655,5/2/16,12/31/99,NA
+19123471,risperidone 4 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,616705,4/2/06,12/31/99,NA
+712621,ziprasidone 60 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313777,1/1/70,12/31/99,NA
+766531,haloperidol 20 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,197754,1/1/70,12/31/99,NA
+40165560,haloperidol decanoate 100 MG/ML,,Drug,RxNorm,Clinical Drug Comp,S,859870,9/6/09,12/31/99,NA
+19099849,clozapine 100 MG Oral Tablet [Ivax brand of clozapine],,Drug,RxNorm,Branded Drug,S,360368,1/1/70,12/31/99,NA
+1559971,pimavanserin 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,2049269,8/6/18,12/31/99,NA
+19118654,thioridazine 25 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569085,9/11/05,12/31/99,NA
+766928,24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel],,Drug,RxNorm,Quant Branded Drug,S,721795,7/29/07,12/31/99,NA
+40179675,chlorpromazine hydrochloride 200 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,991188,6/6/10,12/31/99,NA
+19102186,risperidone 37.5 MG Injection,,Drug,RxNorm,Clinical Drug,S,402011,1/1/70,12/31/99,NA
+19118651,thioridazine 10 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569082,9/11/05,12/31/99,NA
+42801031,molindone hydrochloride 25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1298906,7/2/12,12/31/99,NA
+19077941,haloperidol 1 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,310673,1/1/70,12/31/99,NA
+40165561,haloperidol decanoate 100 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,859871,9/6/09,12/31/99,NA
+40179642,chlorpromazine hydrochloride 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,991044,6/6/10,12/31/99,NA
+19132012,risperidone 2 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,806299,9/28/08,12/31/99,NA
+712620,ziprasidone 40 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,313776,1/1/70,12/31/99,NA
+19088869,trifluoperazine 2 MG [Stelazine],,Drug,RxNorm,Branded Drug Comp,S,569472,9/11/05,12/31/99,NA
+40046616,haloperidol Oral Tablet,,Drug,RxNorm,Clinical Drug Form,S,372377,1/1/70,12/31/99,NA
+703253,24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega],,Drug,RxNorm,Quant Branded Drug,S,686445,2/25/07,12/31/99,NA
+19080061,haloperidol 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,314035,1/1/70,12/31/99,NA
+46275748,aripiprazole Injection,,Drug,RxNorm,Clinical Drug Form,S,1659782,9/8/15,12/31/99,NA
+19127046,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax],,Drug,RxNorm,Branded Drug,S,725080,9/2/07,12/31/99,NA
+19038683,thiothixene 2 MG Oral Capsule [Navane],,Drug,RxNorm,Branded Drug,S,208493,1/1/70,12/31/99,NA
+45892184,2 ML aripiprazole 200 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,1602171,3/2/15,12/31/99,NA
+703091,mesoridazine 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,311552,1/1/70,12/31/99,NA
+792294,loxapine 50 MG/ML Injectable Solution,,Drug,RxNorm,Clinical Drug,S,311384,1/1/70,12/31/99,NA
+703246,24 HR paliperidone 3 MG Extended Release Oral Tablet,,Drug,RxNorm,Quant Clinical Drug,S,672567,1/14/07,12/31/99,NA
+40231371,lurasidone hydrochloride 40 MG Oral Tablet [Latuda],,Drug,RxNorm,Branded Drug,S,1040036,12/5/10,12/31/99,NA
+19127040,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax],,Drug,RxNorm,Branded Drug,S,725068,9/2/07,12/31/99,NA
+19031881,loxapine 5 MG Oral Capsule [Loxitane],,Drug,RxNorm,Branded Drug,S,206272,1/1/70,12/31/99,NA
+752094,prochlorperazine 5 MG Rectal Suppository,,Drug,RxNorm,Clinical Drug,S,198161,1/1/70,12/31/99,NA
+19025661,promazine 10 MG/ML Oral Suspension [Sparine],,Drug,RxNorm,Branded Drug,S,201656,1/1/70,12/31/99,NA
+19082515,perphenazine 4 MG,,Drug,RxNorm,Clinical Drug Comp,S,317460,1/1/70,12/31/99,NA
+704984,trifluoperazine,,Drug,RxNorm,Ingredient,S,10800,1/1/70,12/31/99,NA
+19135464,iloperidone 4 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848740,5/31/09,12/31/99,NA
+712649,ziprasidone 20 MG Injection [Geodon],,Drug,RxNorm,Branded Drug,S,352228,1/1/70,12/31/99,NA
+37498659,Lumateperone,,Drug,RxNorm,Ingredient,S,2275602,5/4/20,12/31/99,NA
+19085165,ziprasidone 40 MG,,Drug,RxNorm,Clinical Drug Comp,S,330415,1/1/70,12/31/99,NA
+19111794,haloperidol 150 MG/ML,,Drug,RxNorm,Clinical Drug Comp,S,451435,1/1/70,12/31/99,NA
+19081764,olanzapine 2.5 MG,,Drug,RxNorm,Clinical Drug Comp,S,316405,1/1/70,12/31/99,NA
+19005339,paliperidone 3 MG [Invega],,Drug,RxNorm,Branded Drug Comp,S,686439,2/25/07,12/31/99,NA
+712615,ziprasidone,,Drug,RxNorm,Ingredient,S,115698,1/1/70,12/31/99,NA
+19048308,iloperidone 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848736,5/31/09,12/31/99,NA
+19036242,prochlorperazine 5 MG Oral Tablet [Compazine],,Drug,RxNorm,Branded Drug,S,207680,1/1/70,12/31/99,NA
+19102162,risperidone 1 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,401953,1/1/70,12/31/99,NA
+19098137,olanzapine 20 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,351108,1/1/70,12/31/99,NA
+19048302,iloperidone 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,848728,5/31/09,12/31/99,NA
+19109997,fluphenazine 25 MG,,Drug,RxNorm,Clinical Drug Comp,S,439766,1/1/70,12/31/99,NA
+40166642,fluphenazine hydrochloride 1 MG Oral Tablet [Prolixin],,Drug,RxNorm,Branded Drug,S,865119,10/4/09,12/31/99,NA
+19019661,pimozide 2 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198103,1/1/70,12/31/99,NA
+40163988,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,,Drug,RxNorm,Quant Clinical Drug,S,858056,9/6/09,12/31/99,NA
+19088113,haloperidol 1.5 MG,,Drug,RxNorm,Clinical Drug Comp,S,332070,1/1/70,12/31/99,NA
+745825,pimozide 1 MG Oral Tablet [Orap],,Drug,RxNorm,Branded Drug,S,262226,1/1/70,12/31/99,NA
+19135465,iloperidone 8 MG Oral Tablet [Fanapt],,Drug,RxNorm,Branded Drug,S,848750,5/31/09,12/31/99,NA
+46275321,brexpiprazole 3 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1658339,9/8/15,12/31/99,NA
+19077929,haloperidol 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,310671,1/1/70,12/31/99,NA
+736020,risperidone 0.25 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312828,1/1/70,12/31/99,NA
+757712,aripiprazole 20 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,349553,1/1/70,12/31/99,NA
+35603050,olanzapine Injection,,Drug,RxNorm,Clinical Drug Form,S,1718924,5/2/16,12/31/99,NA
+19102553,fluoxetine 25 MG / olanzapine 12 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,403970,1/1/70,12/31/99,NA
+19038685,thiothixene 10 MG Oral Capsule [Navane],,Drug,RxNorm,Branded Drug,S,208495,1/1/70,12/31/99,NA
+19030539,haloperidol 0.5 MG Oral Tablet [Haldol],,Drug,RxNorm,Branded Drug,S,205869,1/1/70,12/31/99,NA
+704987,trifluoperazine 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198322,1/1/70,12/31/99,NA
+19038354,thioridazine 25 MG Oral Tablet [Mellaril],,Drug,RxNorm,Branded Drug,S,208386,1/1/70,12/31/99,NA
+766922,quetiapine 50 MG,,Drug,RxNorm,Clinical Drug Comp,S,616486,4/2/06,12/31/99,NA
+40164059,asenapine 5 MG Sublingual Tablet [Saphris],,Drug,RxNorm,Branded Drug,S,859983,9/6/09,12/31/99,NA
+40179618,chlorpromazine 100 MG [Thorazine],,Drug,RxNorm,Branded Drug Comp,S,992692,6/6/10,12/31/99,NA
+19048310,iloperidone 2 MG Oral Tablet [Fanapt],,Drug,RxNorm,Branded Drug,S,848738,5/31/09,12/31/99,NA
+19124153,risperidone 4 MG Disintegrating Oral Tablet [Risperdal],,Drug,RxNorm,Branded Drug,S,630974,6/4/06,12/31/99,NA
+40164055,asenapine 10 MG Sublingual Tablet [Saphris],,Drug,RxNorm,Branded Drug,S,859979,9/6/09,12/31/99,NA
+19046817,quetiapine 50 MG [Seroquel],,Drug,RxNorm,Branded Drug Comp,S,616488,4/2/06,12/31/99,NA
+705046,trifluoperazine 1 MG,,Drug,RxNorm,Clinical Drug Comp,S,328789,1/1/70,12/31/99,NA
+19038682,thiothixene 1 MG Oral Capsule [Navane],,Drug,RxNorm,Branded Drug,S,208492,1/1/70,12/31/99,NA
+40165600,fluphenazine decanoate 25 MG/ML Injectable Solution [Prolixin],,Drug,RxNorm,Branded Drug,S,859826,9/6/09,12/31/99,NA
+19016001,olanzapine 20 MG [Zyprexa],,Drug,RxNorm,Branded Drug Comp,S,574943,9/11/05,12/31/99,NA
+19006493,ziprasidone 40 MG [Geodon],,Drug,RxNorm,Branded Drug Comp,S,574976,9/11/05,12/31/99,NA
+785874,olanzapine 10 MG Injection,,Drug,RxNorm,Clinical Drug,S,485968,1/1/70,12/31/99,NA
+19016227,haloperidol 10 MG Oral Tablet [Kentace],,Drug,RxNorm,Branded Drug,S,152668,1/1/70,12/31/99,NA
+752205,prochlorperazine 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,312635,1/1/70,12/31/99,NA
+766842,quetiapine 200 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,317174,1/1/70,12/31/99,NA
+736015,risperidone 1 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,199387,1/1/70,12/31/99,NA
+19024329,haloperidol 10 MG Oral Tablet [Fortunan],,Drug,RxNorm,Branded Drug,S,200965,1/1/70,12/31/99,NA
+40165809,fluphenazine hydrochloride 5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,860918,9/6/09,12/31/99,NA
+963798,Sensor aripiprazole 10 MG Oral Tablet [Abilify],,Drug,RxNorm,Branded Drug,S,1998453,4/2/18,12/31/99,NA
+19098136,olanzapine 15 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,351107,1/1/70,12/31/99,NA
+40165805,fluphenazine hydrochloride 10 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,859841,9/6/09,12/31/99,NA
+736059,risperidone 3 MG,,Drug,RxNorm,Clinical Drug Comp,S,316646,1/1/70,12/31/99,NA
+40160986,24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel],,Drug,RxNorm,Quant Branded Drug,S,853202,7/5/09,12/31/99,NA
+19118655,thioridazine 50 MG [Mellaril],,Drug,RxNorm,Branded Drug Comp,S,569086,9/11/05,12/31/99,NA
+19124362,aripiprazole 20 MG Disintegrating Oral Tablet,,Drug,RxNorm,Clinical Drug,S,643027,8/27/06,12/31/99,NA
+19125353,1.3 ML aripiprazole 7.5 MG/ML Injection [Abilify],,Drug,RxNorm,Quant Branded Drug,S,672540,1/14/07,12/31/99,NA
+35143901,aripiprazole 1 MG,,Drug,RxNorm Extension,Clinical Drug Comp,S,OMOP4800998,3/11/19,12/31/99,NA
+40726456,Haloperidol 50 MG/ML Injectable Solution [Haldol],,Drug,RxNorm Extension,Branded Drug,S,OMOP4730737,6/4/18,12/31/99,NA
+36409562,paliperidone Injectable Solution,,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP3101604,8/2/17,12/31/99,NA
